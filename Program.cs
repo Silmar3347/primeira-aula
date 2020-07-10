@@ -11,7 +11,7 @@ namespace primeira_aula
             var myName = Console.ReadLine();
             
             
-            Console.WriteLine($"olá,");()
+            Console.WriteLine($"olá,");
             
         }
     }
